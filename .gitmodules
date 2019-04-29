@@ -13,3 +13,6 @@
 [submodule "996.petition"]
 	path = 996.petition
 	url = https://github.com/xokctah/996.petition.git
+[submodule "996.Leave"]
+	path = 996.Leave
+	url = https://github.com/623637646/996.Leave.git
