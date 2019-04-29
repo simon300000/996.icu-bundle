@@ -25,3 +25,6 @@
 [submodule "996_list"]
 	path = 996_list
 	url = https://github.com/fengT-T/996_list.git
+[submodule "955.WLB"]
+	path = 955.WLB
+	url = https://github.com/formulahendry/955.WLB.git
