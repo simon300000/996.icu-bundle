@@ -1,3 +1,6 @@
 [submodule "Natasha"]
 	path = Natasha
 	url = https://github.com/996-icu-avengers/Natasha.git
+[submodule "support.996.ICU"]
+	path = support.996.ICU
+	url = https://github.com/MSWorkers/support.996.ICU.git
