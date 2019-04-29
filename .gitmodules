@@ -7,3 +7,6 @@
 [submodule "996.OD"]
 	path = 996.OD
 	url = https://github.com/gnoloehz/996.OD.git
+[submodule "996action"]
+	path = 996action
+	url = https://github.com/CPdogson/996action.git
