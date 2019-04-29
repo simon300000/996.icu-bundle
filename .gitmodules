@@ -28,3 +28,6 @@
 [submodule "955.WLB"]
 	path = 955.WLB
 	url = https://github.com/formulahendry/955.WLB.git
+[submodule "996.ICU"]
+	path = 996.ICU
+	url = https://github.com/996icu/996.ICU.git
