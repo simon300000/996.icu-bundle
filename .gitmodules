@@ -10,3 +10,6 @@
 [submodule "996action"]
 	path = 996action
 	url = https://github.com/CPdogson/996action.git
+[submodule "996.petition"]
+	path = 996.petition
+	url = https://github.com/xokctah/996.petition.git
