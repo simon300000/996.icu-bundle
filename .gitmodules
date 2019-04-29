@@ -31,3 +31,6 @@
 [submodule "996.ICU"]
 	path = 996.ICU
 	url = https://github.com/996icu/996.ICU.git
+[submodule "996.TSC"]
+	path = 996.TSC
+	url = https://github.com/lxlxw/996.TSC.git
