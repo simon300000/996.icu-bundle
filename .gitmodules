@@ -16,3 +16,6 @@
 [submodule "996.Leave"]
 	path = 996.Leave
 	url = https://github.com/623637646/996.Leave.git
+[submodule "yaocl"]
+	path = yaocl
+	url = https://github.com/operator996/yaocl.git
