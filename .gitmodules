@@ -4,3 +4,6 @@
 [submodule "support.996.ICU"]
 	path = support.996.ICU
 	url = https://github.com/MSWorkers/support.996.ICU.git
+[submodule "996.OD"]
+	path = 996.OD
+	url = https://github.com/gnoloehz/996.OD.git
