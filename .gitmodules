@@ -22,3 +22,6 @@
 [submodule "996.law"]
 	path = 996.law
 	url = https://github.com/CPdogson/996.law.git
+[submodule "996_list"]
+	path = 996_list
+	url = https://github.com/fengT-T/996_list.git
