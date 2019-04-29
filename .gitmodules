@@ -19,3 +19,6 @@
 [submodule "yaocl"]
 	path = yaocl
 	url = https://github.com/operator996/yaocl.git
+[submodule "996.law"]
+	path = 996.law
+	url = https://github.com/CPdogson/996.law.git
